@@ -1,0 +1,10 @@
+vivado/
+sim/
+*.log
+dump*/
+*_notes.*
+*_internal_*
+archived/
+work/
+ref/
+*.wlf
