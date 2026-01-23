@@ -19,7 +19,7 @@ Source file: [Round Robin Arbiter](arbiter_rrobin.sv)
 
 ### 4. Weighted Round Robin (WRR) Arbiter
 
-Similar to RR Arbiter, but extends the round robin scehduling by assigning pre-defined weights per-requester, allowing some to receive multiple consecutive grants.
+Similar to RR Arbiter, but extends the round robin scheduling by assigning pre-defined weights per-requester, allowing some to receive multiple consecutive grants.
 
 Source file: [Weighted Round Robin Arbiter](arbiter_wghtd_rrobin.sv)
 
